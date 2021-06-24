@@ -1,0 +1,9 @@
+bin
+pipes
+log
+
+player.list
+viewers.list
+
+# bin/bare_view scrie aici
+bare.log
